@@ -1,0 +1,6 @@
+{
+  "name": "Repeat Alarms",
+  "description": "High-precision recurring alarms with customizable intervals from 1 second up to several days, overnight active ranges, and instant lockscreen bypass dismiss options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

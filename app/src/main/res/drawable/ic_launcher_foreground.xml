@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Leg -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M38,78L28,88" />
+    <!-- Right Leg -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M70,78L80,88" />
+    <!-- Left Alarm Hammer Bell -->
+    <path
+        android:fillColor="#818CF8"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,40A9,9 0 0 1 38,26" />
+    <!-- Right Alarm Hammer Bell -->
+    <path
+        android:fillColor="#818CF8"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M70,26A9,9 0 0 1 84,40" />
+    <!-- Main Outer Ring Body -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#818CF8"
+        android:strokeWidth="4"
+        android:pathData="M54,56m-24,0a24,24 0 1,1 48,0a24,24 0 1,1 -48,0" />
+    <!-- Inner Watch Target Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,56m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+    <!-- Minute Hand -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,56L66,56" />
+    <!-- Hour Hand -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,56L54,42" />
+</vector>
